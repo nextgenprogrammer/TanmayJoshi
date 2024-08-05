@@ -3,7 +3,7 @@ import ProPic from '../images/Profilepic.png'
 
 const HomePageContactCard = () => {
     return(
-        <div className='mt-40 m-2 w-screen flex justify-center'>
+        <div className='ml-60 flex ...'>
             <div className='border-2 border-white rounded-full'>
                 <img src={ProPic} height={150} width={150}/>
             </div>
